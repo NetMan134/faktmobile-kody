@@ -44,4 +44,4 @@ Apart from that I tried making this little code to be as readable as it could be
 
 # License
 
-Distributed with [MIT Licence](./LICENSE)
+Distributed with [MIT License](./LICENSE)
